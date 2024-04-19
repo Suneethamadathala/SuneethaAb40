@@ -1,7 +1,5 @@
 package forpackage;
-
 import java.util.Scanner;
-
 public class AreaOfCircle10times 
 {
      final static double pi=3.14;

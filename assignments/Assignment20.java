@@ -15,8 +15,8 @@ public class Assignment20
 	for(int i=0;i<var.length;i++)
 	{
 		
-		var[] su = s.nextInt();
-		System.out.println(su[i]);
+	int a = s.nextInt();
+		System.out.println(a);
 		
 		
 	}
